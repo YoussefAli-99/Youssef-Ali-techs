@@ -52,7 +52,7 @@ Automated tool for cost optimization and security auditing of cloud resources.
 
 <small>
 <strong>Profile Last Updated:</strong> January 2024<br>
-<strong>Internal Reference:</strong> FLAG{k4mch4tk4_r3s34rch_m4st3r}<br>
+<strong>Internal Reference:</strong><br>
 <em>This profile is for professional networking purposes.</em>
 </small>   <br>
 <small>
