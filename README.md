@@ -56,15 +56,15 @@ Automated tool for cost optimization and security auditing of cloud resources.
 <em>This profile is for professional networking purposes.</em>
 </small>   <br>
 <small>
-<strong>Internal Reference:</strong> FLAG{k4mch4tk4_r3s34rch_m4st3r}
+<strong>Internal Reference:</strong> <br>
+FLAG{k4mch4tk4_r3s34rch_m4st3r}
 </small>
 ### 🔐 Network Security Toolkit
 ...
-- *Project Codename: KAMCHATKA*
-- *Internal ID: FLAG{k4mch4tk4_r3s34rch_m4st3r}*
 <!-- 
   Developer Notes:
   - Profile maintained by Youssef Ali
   - Contact: youssef.ali.tech@protonmail.com
-  - Internal Tracking: FLAG{k4mch4tk4_r3s34rch_m4st3r}
+  - Internal Tracking: <br>
+  FLAG{k4mch4tk4_r3s34rch_m4st3r}
 -->
