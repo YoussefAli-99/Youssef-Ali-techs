@@ -57,7 +57,7 @@ Automated tool for cost optimization and security auditing of cloud resources.
 </small>   <br>
 <small>
 <strong>Internal Reference:</strong> <br>
-FLAG{k4mch4tk4_r3s34rch_m4st3r}
+UNINTENDED{youssefali_github}
 </small>
 ### 🔐 Network Security Toolkit
 ...
@@ -66,5 +66,4 @@ FLAG{k4mch4tk4_r3s34rch_m4st3r}
   - Profile maintained by Youssef Ali
   - Contact: youssef.ali.tech@protonmail.com
   - Internal Tracking: <br>
-  FLAG{k4mch4tk4_r3s34rch_m4st3r}
 -->
